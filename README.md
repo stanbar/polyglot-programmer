@@ -1,6 +1,6 @@
 # Polyglot Programmer
 
-This repo aims to provide goto, default, most popular, best practice, modern development toochain for different languages, provided in tabular format for easy by-analogy usage. Cheetsheet for starting development with new ecosystem.
+This repo aims to provide goto, default, most popular, best practice, modern development cheetsheet toochain for different languages, provided in tabular format for easy by-analogy usage.
 
 |            | Language      | Runtime                                            | Package Manager              | Virtual environment            | Runtime Version Manager                                   |
 | ---------- | ------------- | -------------------------------------------------- | ---------------------------- | ------------------------------ | --------------------------------------------------------- |
